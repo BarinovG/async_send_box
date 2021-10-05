@@ -1,0 +1,4 @@
+aiofile==3.7.2
+asgiref==3.4.1
+Flask==2.0.2
+requests==2.26.0
